@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#if defined FREEBSD || defined LINUX || defined YOUR_UNIX_LIKE_ARCH_GOING_HERE
+#if defined FREEBSD || defined LINUX || defined HAIKU
 #define UNIX
 #endif
 
